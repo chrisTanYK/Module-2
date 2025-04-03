@@ -43,3 +43,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 >>>>>>> origin/main
+.terraform/
